@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:23:50.917Z",
+  "generated_at": "2026-07-20T17:43:27.316Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "6335f192-876c-46ef-a9bd-7ab44bc8dbfe",
+      "slug": "bmw-15r7mo",
+      "name": "Bmw",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הנה מידע עליה:\n\n🚗 נתונים כלליים\n\n* יצרן: BMW\n* דגם: X6\n* קטגוריה: SUV קופה יוקרתי\n* הנעה: אחורית או כפולה (xDrive), תלוי בגרסה.\n* תיבת הילוכים: אוטומטית 8 הילוכים.\n\n⚙️ מנועים נפוצים\n\n* xDrive30d – מנוע דיזל 3.0 ליטר, כ-286 כ”ס.\n* xDrive40i – מנוע בנזין 3.0 ליטר טורבו, כ-340 כ”ס.\n* M50i – מנוע V8 טווין-טורבו 4.4 ליטר, כ-530 כ”ס.\n* X6 M Competition – מנוע V8 טווין-טורבו 4.4 ליטר, כ-625 כ”ס.\n\n🚀 ביצועים\n\nבהתאם לגרסה:\n\n* 0–100 קמ”ש: בין 3.8 שניות (ב-X6 M Competition) ועד כ-6.5 שניות בגרסאות החלשות ",
+      "sku": null,
+      "brand": "yoshi cars",
+      "price": 790,
+      "base_price": 800,
+      "sale_price": 790,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784566454873-i93zgm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bmw-15r7mo",
+      "categories": [],
+      "updated_at": "2026-07-20T17:31:07.308Z"
+    }
+  ]
 }

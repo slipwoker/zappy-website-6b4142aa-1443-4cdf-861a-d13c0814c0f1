@@ -5950,3 +5950,13 @@ Description: yoshi style - תודה - yoshi style
 
 ---
 
+## Product Catalog
+
+### Bmw
+URL: https://example.com/product/bmw-15r7mo
+Price: 790.00 ILS (sale, was 800.00 ILS)
+Availability: In stock
+Brand: yoshi cars
+
+---
+
