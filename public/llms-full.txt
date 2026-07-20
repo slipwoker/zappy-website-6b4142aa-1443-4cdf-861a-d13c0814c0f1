@@ -2,13 +2,13 @@
 
 A clothing brand seeking an online presence. The specific identity, aesthetic, target market, and unique brand personality are yet to be defined.
 
-Source: https://yoshi-style-6b4142aa.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את הסגנון החדש שלך באופנת חורף — yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app
+URL: https://example.com
 Description: ברוכה הבאה לעולם האופנה של yoshi style – קולקציית חורף נשית שמשלבת שיק, נוחות ואיכות ללא פשרות. גלי פריטים שיחמיאו לך ויחממו את הלב. התחילי את המסע האופנתי שלך עוד היום.
 
 גלי את הסגנון החדש שלך באופנת חורף — yoshi style
@@ -418,7 +418,7 @@ Description: ברוכה הבאה לעולם האופנה של yoshi style – ק
 
 ## הסיפור שמאחורי כל תפר ובד — yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/brand
+URL: https://example.com/brand
 Description: הצטרפי למסע אל לב המותג yoshi style – חזון אופנתי שמגדיר מחדש אלגנטיות יומיומית עם נשמה. הכירי את הפילוסופיה, ההשראה והאנשים שמאחורי הקולקציות. בואי לגלות מה מניע אותנו.
 
 הסיפור שמאחורי כל תפר ובד — yoshi style
@@ -839,7 +839,7 @@ yoshi style צומח מתוך הרחוב, המוזיקה, האמנות והקצ�
 
 ## הציצי אל טרנדים שיככבו עלייך החורף — yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/lookbook
+URL: https://example.com/lookbook
 Description: דפדפי בלוקבוק החדש של yoshi style וקבלי השראה למראות חורף מושלמים. שילובים מפתיעים, צלליות עדכניות וסטיילינג שידליק כל הופעה. גלי את הלוק שיהפוך אותך לכוכבת העונה.
 
 הציצי אל טרנדים שיככבו עלייך החורף — yoshi style
@@ -1236,7 +1236,7 @@ Description: דפדפי בלוקבוק החדש של yoshi style וקבלי הש
 
 ## אופנה שעושה טוב לעולם וללב — yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/sustainability
+URL: https://example.com/sustainability
 Description: ב-yoshi style אנחנו מאמינים שאופנה יפה חייבת להיות גם אחראית. גלי את המחויבות שלנו לקיימות אמיתית – מבדים אקולוגיים ועד ייצור הוגן. הצטרפי למהפכה האופנתית שמשנה את העולם פריט אחר פריט.
 
 אופנה שעושה טוב לעולם וללב — yoshi style
@@ -1641,7 +1641,7 @@ Description: ב-yoshi style אנחנו מאמינים שאופנה יפה חיי
 
 ## כבר מדמיינת את הפריט הבא? דברי איתנו — yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על מידה, התאמה אישית או סתם בא לך לשתף חלום אופנתי? צוות הסטייליסטים של yoshi style מחכה לשמוע ממך. מלאי את הטופס ונתחיל לרקום יחד את הסגנון שלך.
 
 כבר מדמיינת את הפריט הבא? דברי איתנו — yoshi style
@@ -1978,7 +1978,7 @@ Description: יש לך שאלה על מידה, התאמה אישית או סתם
 
 ## מוצרים
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - yoshi style
 
 מוצרים - yoshi style
@@ -2386,7 +2386,7 @@ Description: המוצרים שלנו - yoshi style
 
 ## עגלת קניות
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - yoshi style
@@ -2636,7 +2636,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - yoshi style
@@ -3072,7 +3072,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - yoshi style
@@ -3329,7 +3329,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - yoshi style
@@ -3741,7 +3741,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - yoshi style
@@ -4015,7 +4015,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - yoshi style
@@ -4318,7 +4318,7 @@ yoshi style מחויבת לשביעות רצון לקוחותיה. מדיניו�
 
 ## פרטי המוצר
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - yoshi style
 
 פרטי המוצר - yoshi style
@@ -4570,7 +4570,7 @@ Description: פרטי המוצר - yoshi style
 
 ## מוצרים
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - yoshi style
 
 מוצרים - yoshi style
@@ -4846,7 +4846,7 @@ Description: מוצרים - yoshi style
 
 ## מדיניות פרטיות
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5124,7 +5124,7 @@ yoshi style ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5411,7 +5411,7 @@ yoshi style מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5717,7 +5717,7 @@ yoshi style מספקת Fashion & Apparel דרך האתר. השירותים כפ�
 
 ## תודה - yoshi style
 
-URL: https://yoshi-style-6b4142aa.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: yoshi style - תודה - yoshi style
 
 תודה - yoshi style
