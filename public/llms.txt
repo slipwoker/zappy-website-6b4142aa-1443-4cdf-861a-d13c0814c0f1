@@ -1,0 +1,108 @@
+# yoshi style — Generative Engine Optimization Map
+
+> A clothing brand seeking an online presence. The specific identity, aesthetic, target market, and unique brand personality are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://yoshi-style-6b4142aa.zappy5.app
+ברוכה הבאה לעולם האופנה של yoshi style – קולקציית חורף נשית שמשלבת שיק, נוחות ואיכות ללא פשרות. גלי פריטים שיחמיאו לך ויחממו את הלב. התחילי את המסע האופנתי שלך עוד היום.
+
+### מותג
+https://yoshi-style-6b4142aa.zappy5.app/brand
+הצטרפי למסע אל לב המותג yoshi style – חזון אופנתי שמגדיר מחדש אלגנטיות יומיומית עם נשמה. הכירי את הפילוסופיה, ההשראה והאנשים שמאחורי הקולקציות. בואי לגלות מה מניע אותנו.
+
+### לוקבוק
+https://yoshi-style-6b4142aa.zappy5.app/lookbook
+דפדפי בלוקבוק החדש של yoshi style וקבלי השראה למראות חורף מושלמים. שילובים מפתיעים, צלליות עדכניות וסטיילינג שידליק כל הופעה. גלי את הלוק שיהפוך אותך לכוכבת העונה.
+
+### קיימות
+https://yoshi-style-6b4142aa.zappy5.app/sustainability
+ב-yoshi style אנחנו מאמינים שאופנה יפה חייבת להיות גם אחראית. גלי את המחויבות שלנו לקיימות אמיתית – מבדים אקולוגיים ועד ייצור הוגן. הצטרפי למהפכה האופנתית שמשנה את העולם פריט אחר פריט.
+
+### צור קשר
+https://yoshi-style-6b4142aa.zappy5.app/contact
+יש לך שאלה על מידה, התאמה אישית או סתם בא לך לשתף חלום אופנתי? צוות הסטייליסטים של yoshi style מחכה לשמוע ממך. מלאי את הטופס ונתחיל לרקום יחד את הסגנון שלך.
+
+### Products
+https://yoshi-style-6b4142aa.zappy5.app/products
+המוצרים שלנו - yoshi style
+
+### Cart
+https://yoshi-style-6b4142aa.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://yoshi-style-6b4142aa.zappy5.app/checkout
+תשלום
+
+### Login
+https://yoshi-style-6b4142aa.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://yoshi-style-6b4142aa.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://yoshi-style-6b4142aa.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://yoshi-style-6b4142aa.zappy5.app/product/:slug
+פרטי המוצר - yoshi style
+
+### Category
+https://yoshi-style-6b4142aa.zappy5.app/category/:slug
+מוצרים - yoshi style
+
+### תודה - yoshi style
+https://yoshi-style-6b4142aa.zappy5.app/thank-you
+yoshi style - תודה - yoshi style
+
+## Legal & Policy
+
+### Privacy Policy
+https://yoshi-style-6b4142aa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yoshi-style-6b4142aa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yoshi-style-6b4142aa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About yoshi style
+A clothing brand seeking an online presence. The specific identity, aesthetic, target market, and unique brand personality are yet to be defined.
+
+## Target Audience
+- צעירים חובבי אופנה
+- צרכנים מודעים לסביבה
+- מקצוענים עירוניים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yoshi-style-6b4142aa.zappy5.app/sitemap.xml
+- Robots: https://yoshi-style-6b4142aa.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yoshi-style-6b4142aa.zappy5.app/llms-full.txt
+- Products (JSON): https://yoshi-style-6b4142aa.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yoshi-style-6b4142aa.zappy5.app/product-feed.xml
