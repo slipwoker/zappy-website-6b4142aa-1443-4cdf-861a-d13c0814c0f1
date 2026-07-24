@@ -4,18 +4,19 @@
     <title>yoshi style</title>
     <link>https://example.com</link>
     <description>Product feed for yoshi style</description>
-    <lastBuildDate>Mon, 20 Jul 2026 17:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:40:10 GMT</lastBuildDate>
     <item>
       <g:id>6335f192-876c-46ef-a9bd-7ab44bc8dbfe</g:id>
-      <g:title>Bmw</g:title>
-      <g:description>הנה מידע עליה: 🚗 נתונים כלליים * יצרן: BMW * דגם: X6 * קטגוריה: SUV קופה יוקרתי * הנעה: אחורית או כפולה (xDrive), תלוי בגרסה. * תיבת הילוכים: אוטומטית 8 הילוכים. ⚙️ מנועים נפוצים * xDrive30d – מנוע דיזל 3.0 ליטר, כ-286 כ”ס. * xDrive40i – מנוע בנזין 3.0 ליטר טורבו, כ-340 כ”ס. * M50i – מנוע V8 טווין-טורבו 4.4 ליטר, כ-530 כ”ס. * X6 M Competition – מנוע V8 טווין-טורבו 4.4 ליטר, כ-625 כ”ס. 🚀 ביצועים בהתאם לגרסה: * 0–100 קמ”ש: בין 3.8 שניות (ב-X6 M Competition) ועד כ-6.5 שניות בגרסאות החלשות</g:description>
-      <g:link>https://example.com/product/bmw-15r7mo</g:link>
-      <g:image_link>https://example.com/assets/product-1784566454873-i93zgm.webp</g:image_link>
+      <g:title>    Rolex Yacht-Master</g:title>
+      <g:description>* דגם: Rolex Yacht-Master. * סגנון: שעון יוקרה ספורטיבי שמתאים גם ליום-יום וגם לאירועים. * חומר: בדרך כלל בדגם המקורי מדובר בזהב ורוד 18 קראט (Everose Gold), אם כי בתמונה שלך הצבע נראה יותר כמו זהב צהוב. * רצועה: גומי איכותי בסגנון Oysterflex, שנוחה מאוד על היד. * עמידות למים: עד 100 מטר (בדגם המקורי). * מנגנון: אוטומטי (נטען מתנועת היד, ללא סוללה). * זכוכית: ספיר עמידה מאוד לשריטו</g:description>
+      <g:link>https://example.com/product/rolex-yacht-master-jeromo</g:link>
+      <g:image_link>https://example.com/assets/product-1784885371492-pgh7x.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784885377745-uh9c1g.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784885384251-73i6sg.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>800.00 ILS</g:price>
-      <g:sale_price>790.00 ILS</g:sale_price>
+      <g:price>1000.00 ILS</g:price>
       <g:condition>new</g:condition>
-      <g:brand>yoshi cars</g:brand>
+      <g:brand>Yoshi Watches</g:brand>
     </item>
   </channel>
 </rss>
