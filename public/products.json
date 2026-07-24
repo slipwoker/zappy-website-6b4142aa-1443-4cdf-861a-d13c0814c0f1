@@ -1,10 +1,61 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-24T09:51:33.845Z",
+  "generated_at": "2026-07-24T10:27:07.139Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 3,
   "products": [
+    {
+      "id": "005985ee-3a5f-4f3d-bbcb-d14575c74697",
+      "slug": "rvlks-2jqg4z",
+      "name": "רולקס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "    דגם: Deepsea D-Blue\n* קוטר: 44 מ”מ\n* חומר: פלדת Oystersteel\n* עמידות למים: עד 3,900 מטר (12,800 רגל)\n* מנגנון: אוטומטי (Rolex Caliber 3235 בדגמים החדשים)\n* זכוכית: ספיר עמידה לשריטות\n* לוח: כחול-שחור עם מעבר צבע ייחודי (“D-Blue”",
+      "sku": null,
+      "brand": null,
+      "price": 7600,
+      "base_price": 7800,
+      "sale_price": 7600,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784888713023-df96n.webp",
+        "https://example.com/assets/product-1784888719132-ul6bhq.webp",
+        "https://example.com/assets/product-1784888725510-k0ng38.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/rvlks-2jqg4z",
+      "categories": [
+        "רולקס"
+      ],
+      "updated_at": "2026-07-24T10:25:43.515Z"
+    },
+    {
+      "id": "49cd5461-e0d4-4472-992a-e26c78b5027e",
+      "slug": "rolex-datejust-zktovu",
+      "name": "Rolex Datejust",
+      "name_translations": {},
+      "description": "",
+      "short_description": "    לוח: ירוק (Green Dial / Mint Green)\n* צמיד: Jubilee מנירוסטה\n* מסגרת (Bezel): מחורצת (Fluted) בצבע כסף\n* חלון תאריך: בשעה 3 עם עדשת Cyclops שמגדילה את התאריך\n* מנגנון: אוטומטי (Self-Winding)\n* זכוכית: ספיר עמידה לשריטות\n* עמידות למים: עד 100 מטר\n* קוטר: נראה כמו 41 מ”מ (ייתכן גם 36 מ”מ",
+      "sku": null,
+      "brand": "רולקס",
+      "price": 4600,
+      "base_price": 4800,
+      "sale_price": 4600,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784887713198-5eb2qo.webp",
+        "https://example.com/assets/product-1784887719566-u5aq2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/rolex-datejust-zktovu",
+      "categories": [
+        "רולקס"
+      ],
+      "updated_at": "2026-07-24T10:17:00.484Z"
+    },
     {
       "id": "6335f192-876c-46ef-a9bd-7ab44bc8dbfe",
       "slug": "rolex-yacht-master-jeromo",

@@ -4,7 +4,37 @@
     <title>yoshi style</title>
     <link>https://example.com</link>
     <description>Product feed for yoshi style</description>
-    <lastBuildDate>Fri, 24 Jul 2026 09:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:27:07 GMT</lastBuildDate>
+    <item>
+      <g:id>005985ee-3a5f-4f3d-bbcb-d14575c74697</g:id>
+      <g:title>רולקס</g:title>
+      <g:description>דגם: Deepsea D-Blue * קוטר: 44 מ”מ * חומר: פלדת Oystersteel * עמידות למים: עד 3,900 מטר (12,800 רגל) * מנגנון: אוטומטי (Rolex Caliber 3235 בדגמים החדשים) * זכוכית: ספיר עמידה לשריטות * לוח: כחול-שחור עם מעבר צבע ייחודי (“D-Blue”</g:description>
+      <g:link>https://example.com/product/rvlks-2jqg4z</g:link>
+      <g:image_link>https://example.com/assets/product-1784888713023-df96n.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784888719132-ul6bhq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784888725510-k0ng38.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>7800.00 ILS</g:price>
+      <g:sale_price>7600.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>yoshi style</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>רולקס</g:product_type>
+    </item>
+    <item>
+      <g:id>49cd5461-e0d4-4472-992a-e26c78b5027e</g:id>
+      <g:title>Rolex Datejust</g:title>
+      <g:description>לוח: ירוק (Green Dial / Mint Green) * צמיד: Jubilee מנירוסטה * מסגרת (Bezel): מחורצת (Fluted) בצבע כסף * חלון תאריך: בשעה 3 עם עדשת Cyclops שמגדילה את התאריך * מנגנון: אוטומטי (Self-Winding) * זכוכית: ספיר עמידה לשריטות * עמידות למים: עד 100 מטר * קוטר: נראה כמו 41 מ”מ (ייתכן גם 36 מ”מ</g:description>
+      <g:link>https://example.com/product/rolex-datejust-zktovu</g:link>
+      <g:image_link>https://example.com/assets/product-1784887713198-5eb2qo.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784887719566-u5aq2.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>4800.00 ILS</g:price>
+      <g:sale_price>4600.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>רולקס</g:brand>
+      <g:product_type>רולקס</g:product_type>
+    </item>
     <item>
       <g:id>6335f192-876c-46ef-a9bd-7ab44bc8dbfe</g:id>
       <g:title>    Rolex Yacht-Master</g:title>

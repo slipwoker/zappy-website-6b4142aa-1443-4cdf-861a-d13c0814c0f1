@@ -103,6 +103,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://example.com/product/rvlks-2jqg4z</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://example.com/product/rolex-datejust-zktovu</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://example.com/product/rolex-yacht-master-jeromo</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
