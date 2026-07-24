@@ -779,13 +779,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "6b4142aa-1443-4cdf-861a-d13c0814c0f1";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "6b4142aa-1443-4cdf-861a-d13c0814c0f1";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1362,7 +1362,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <stop offset="100%" stop-color="#F4F0EA"/>
         </linearGradient>
       </defs>
-      <path d="M0,80 L0,30 Q180,20 360,35 T720,25 Q900,20 1080,35 T1440,30 L1440,80 Z" fill="var(--bg-dark)"/>
+      <path d="M0,80 L0,30 Q180,20 360,35 T720,25 Q900,20 1080,35 T1440,30 L1440,80 Z" fill="var(--bg-light)"/>
       <!-- Neon magenta glow line near END edge (right side in RTL is 100%) -->
       <line x1="1380" y1="20" x2="1380" y2="80" stroke="#E91E8C" stroke-width="2" opacity="0.9"/>
     </svg>
@@ -1373,14 +1373,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
 
 
-<section data-band-index="4" class="index-cta-section zappy-lazy-bg" data-layout-spec="בית-cta" dir="rtl" id="index-cta-section" style="position: relative;overflow: hidden;--zappy-bg-color: #151515;--zappy-bg-overlay: rgba(0, 0, 0, 0);--zappy-bg-size: cover;--zappy-bg-position: center;background-size: cover;background-position: center center;background-repeat: no-repeat" data-zappy-bg-color="#151515" data-zappy-bg-image="assets/business-general-hero-upload-1784886446728.webp" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type data-zappy-bg-video-url data-zappy-bg-orig-size-var data-zappy-bg-orig-position-var data-zappy-bg-type="image" data-zappy-lazy-bg="background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);--zappy-bg-image: url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);">
-  <div class="index-cta-section__decorative-rect" aria-hidden="true"></div>
-  <div class="index-cta-section__container">
-    <h2 class="index-cta-section__heading" style>עצבו איתנו את הדרופ הראשון</h2>
-    
-    <p><a href="/contact" class="index-cta-section__cta">צרו קשר עם yoshi style</a>
-  </p></div>
-</section>
+
   </main>
   
   <footer class="site-footer" dir="rtl">
@@ -1478,9 +1471,6 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
     <script src="/script.js"></script>
 
-    <script id="zappy-lazy-bg-loader">
-(function(){function load(el){var css=el.getAttribute('data-zappy-lazy-bg');if(!css)return;el.style.cssText=(el.getAttribute('style')||'').replace(/;?\s*$/,';')+css;el.removeAttribute('data-zappy-lazy-bg');el.classList.remove('zappy-lazy-bg');}function init(){var els=[].slice.call(document.querySelectorAll('[data-zappy-lazy-bg]'));if(!els.length)return;if(!('IntersectionObserver'in window)){els.forEach(load);return;}var io=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting){io.unobserve(entry.target);load(entry.target);}});},{rootMargin:'300px 0px'});els.forEach(function(el){io.observe(el);});setTimeout(function(){els.forEach(function(el){if(el.hasAttribute('data-zappy-lazy-bg'))load(el);});},9000);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init,{once:true});}else{init();}})();
-</script>
     <script id="zappy-font-awesome-loader">
 (function(){if(window.__zappyFontAwesomeLoader)return;window.__zappyFontAwesomeLoader=true;var href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css';function load(){if(document.querySelector('link[href*="font-awesome"][href*="all.min.css"]'))return;var l=document.createElement('link');l.rel='stylesheet';l.href=href;l.crossOrigin='anonymous';l.referrerPolicy='no-referrer';document.head.appendChild(l);}function schedule(){if('requestIdleCallback'in window){requestIdleCallback(load,{timeout:5000});}else{setTimeout(load,3500);}}['pointerdown','keydown','touchstart','mouseover'].forEach(function(evt){window.addEventListener(evt,load,{once:true,passive:true});});schedule();})();
 </script>
