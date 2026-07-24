@@ -779,13 +779,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "6b4142aa-1443-4cdf-861a-d13c0814c0f1";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "6b4142aa-1443-4cdf-861a-d13c0814c0f1";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1373,15 +1373,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
 
 
-<section data-band-index="4" class="index-cta-section zappy-lazy-bg" data-layout-spec="בית-cta" dir="rtl" id="zappy-section-1784886404494-3319" style="position: relative;overflow: hidden;--zappy-bg-color: #151515;background-size: cover;background-position: center;background-repeat: no-repeat;--zappy-bg-overlay: rgba(0, 0, 0, 0)" data-zappy-bg-type="image" data-zappy-bg-color data-zappy-bg-image="assets/business-general-hero-upload-1784886446728.webp" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type data-zappy-bg-video-url data-zappy-lazy-bg="background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);--zappy-bg-image: url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);">
+<section data-band-index="4" class="index-cta-section zappy-lazy-bg" data-layout-spec="בית-cta" dir="rtl" id="index-cta-section" style="position: relative;overflow: hidden;--zappy-bg-color: #151515;--zappy-bg-overlay: rgba(0, 0, 0, 0);--zappy-bg-size: cover;--zappy-bg-position: center;background-size: cover;background-position: center center;background-repeat: no-repeat" data-zappy-bg-color="#151515" data-zappy-bg-image="assets/business-general-hero-upload-1784886446728.webp" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type data-zappy-bg-video-url data-zappy-bg-orig-size-var data-zappy-bg-orig-position-var data-zappy-bg-type="image" data-zappy-lazy-bg="background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);--zappy-bg-image: url(&quot;assets/business-general-hero-upload-1784886446728.webp&quot;);">
   <div class="index-cta-section__decorative-rect" aria-hidden="true"></div>
   <div class="index-cta-section__container">
-    <h2 class="index-cta-section__heading">עצבו איתנו את הדרופ הראשון</h2>
-    <p class="index-cta-section__paragraph">
-      אנחנו מזמינים סטייליסטים, תומכי מותג מוקדמים, יוצרי תוכן וצרכני אופנה מודעת להתחבר ל-yoshi style. הצטרפו אלינו לבניית קהילה שמכתיבה את הטון האורבני החדש, עם קולקציות קפסולה במהדורות מוגבלות שמספרות סיפור.
-    </p>
-    <a href="/contact" class="index-cta-section__cta">צרו קשר עם yoshi style</a>
-  </div>
+    <h2 class="index-cta-section__heading" style>עצבו איתנו את הדרופ הראשון</h2>
+    
+    <p><a href="/contact" class="index-cta-section__cta">צרו קשר עם yoshi style</a>
+  </p></div>
 </section>
   </main>
   
